@@ -28,4 +28,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 30px;
+    border: none;
+    border-radius: 2px;
 }
