@@ -24,7 +24,7 @@
     margin-right: auto;
 }
 
-.btn {
+.btn-search {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -37,5 +37,19 @@
     padding-right: 15px;
     background: #dfe1e5;
     font-size: 15px;
+}
 
+.btn-lucky {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    border: none;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: #dfe1e5;
+    font-size: 15px;
 }
