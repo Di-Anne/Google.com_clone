@@ -1,5 +1,6 @@
 .main {
     margin-top: 100px;
+    text-align: center;
 }
 
 .logo {
@@ -25,9 +26,6 @@
 }
 
 .btn-search {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
     margin-top: 30px;
     border: none;
     border-radius: 5px;
@@ -40,9 +38,6 @@
 }
 
 .btn-lucky {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
     margin-top: 30px;
     border: none;
     border-radius: 5px;
