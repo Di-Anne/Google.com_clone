@@ -28,7 +28,7 @@
     justify-content: center;
 }
 
-.btn-search {
+.btn {
     margin-top: 30px;
     margin-left: 4px;
     margin-right: 4px;
@@ -42,14 +42,3 @@
     font-size: 15px;
 }
 
-.btn-lucky {
-    margin-top: 30px;
-    border: none;
-    border-radius: 5px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
-    background: #dfe1e5;
-    font-size: 15px;
-}
